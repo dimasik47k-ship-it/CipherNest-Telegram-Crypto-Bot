@@ -1,0 +1,14 @@
+# Core dependencies
+aiogram>=3.4.1
+cryptography>=42.0.0
+python-dotenv>=1.0.1
+
+# Additional utilities
+aiofiles>=23.2.1
+
+# Hashing (built-in hashlib provides most algorithms)
+argon2-cffi>=23.1.0
+bcrypt>=4.1.2
+
+# JWT
+PyJWT>=2.8.0
